@@ -24,3 +24,4 @@ const data: (string | number)[]=[1,2,"3"]
 
 // in this case you cant change the number also
 let pi:3.14 =3.14
+let seatAllotment: 'aisle'|'middle'|'window'
